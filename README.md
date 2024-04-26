@@ -1,27 +1,30 @@
 # FirstApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.4.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.4.<br>
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+<h3>Question 1</h3>
+<p>Premiere Démo : création et démarrage de l'application </p>
+<img src="Captures/1.jpg" alt=""><br><br>
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+<h3>Question 2</h3>
+<p>Premiere Démo : Composant "home" selectionné </p>
+<img src="Captures/2.jpg" alt=""><br><br>
 
-## Build
+<h3>Question 3</h3>
+<p>Premiere Démo : Composant "Product" selectionné </p>
+<img src="Captures/3.jpg" alt=""><br><br>
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+<h3>Question 4</h3>
+<p>Premiere Démo : Suppression d'un produit </p>
+<img src="Captures/4.jpg" alt=""><br>
+<p>Premiere Démo : Article 2 et 4 supprimés </p>
+<img src="Captures/4.1.jpg" alt=""><br><br>
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+<h3>Question 5</h3>
+<p>Premiere Démo : Rechercher un produit </p>
+<img src="Captures/5.jpg" alt=""><br><br>
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+<h3>FIN</h3>
